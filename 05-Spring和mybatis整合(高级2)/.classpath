@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4.jar" sourcepath="D:/GZ1840/04-框架阶段/02-ssm/01-mybatis/day04/资料/SM整合jar包/连接池jar包/commons-dbcp-1.4-src.zip"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.0-rc1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.0-rc1.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-spring-1.2.2.jar" sourcepath="D:/GZ1840/04-框架阶段/02-ssm/01-mybatis/day04/资料/SM整合jar包/mybatis-spring-1.2.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
